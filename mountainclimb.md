@@ -58,7 +58,7 @@ Together they get you to the summit safely
 
 ---
 
-## Stage 2 — Value
+## Stage 2 — Shape
 
 **Objective:** Plan the climb properly to maximise success  
 
@@ -79,7 +79,7 @@ Together they get you to the summit safely
 
 ---
 
-## Stage 3 — Convert
+## Stage 3 — Pursue
 
 **Objective:** Execute the ascent to reach the summit  
 
