@@ -8,7 +8,7 @@
 # Summit
 ## The Gated Business Lifecycle
 
-<img width="781" height="1537" alt="Jon Ryley Genesis Arc GBL no top brand" src=("SAGBLwhite.png)" />
+<img width="781" height="1537" alt="Jon Ryley Genesis Arc GBL no top brand" src="SAGBLwhite.png" />
 
 ---
 
